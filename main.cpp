@@ -3,10 +3,10 @@
 using namespace std;
 
 int main() {
-
-   cout << "Hello World" << endl;
-
+    int i = 0;
+    cout << "Hello World " << i << endl;
+    
     cout << "half life 2" << endl;
 
-   return 0;
+    return 0;
 }
