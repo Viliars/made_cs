@@ -8,3 +8,7 @@ TEST(CS, Test2) {
     EXPECT_STREQ("world", "world");
 }
 
+TEST(CS, Test3) {
+    EXPECT_STREQ("blabla", "bla");
+}
+
